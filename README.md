@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nishusv
+- 👋 Hi, I’m @Nikshep sv
 - 👀 I’m interested in Bike Riding...
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning moblie development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
